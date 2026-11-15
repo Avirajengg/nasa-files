@@ -1,0 +1,1 @@
+Ephemeris -> meaning a data of calculated position of a celestial object for a given period or regular interval
